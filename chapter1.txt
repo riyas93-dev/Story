@@ -1,1 +1,5 @@
 This is my first chapter in learning git version control.
+Adding the alien-plot in my story is the best part that could have
+ever been added.
+I don't know if it is just my imagination or a procrastination, I just want
+to continue with it.
